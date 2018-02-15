@@ -7,6 +7,7 @@ import javax.ws.rs.core.MediaType;
 
 /**
  * Root resource (exposed at "myresource" path)
+ * goutham
  */
 @Path("myresource")
 public class MyResource {
